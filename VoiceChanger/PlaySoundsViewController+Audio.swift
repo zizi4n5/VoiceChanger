@@ -92,7 +92,7 @@ extension PlaySoundsViewController: AVAudioPlayerDelegate {
        
     }
     
-    func stopAudio(){
+    @objc func stopAudio(){
         if let audioNode = audioNode {
             audioNode.stop()
         }

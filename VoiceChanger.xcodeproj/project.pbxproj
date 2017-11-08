@@ -201,17 +201,20 @@
 					F7C133031F5A7CC2001C3C55 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = G828R8B6AG;
+						LastSwiftMigration = 0910;
 						ProvisioningStyle = Automatic;
 					};
 					F7C133171F5A7CC3001C3C55 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 54GVH89862;
+						LastSwiftMigration = 0910;
 						ProvisioningStyle = Automatic;
 						TestTargetID = F7C133031F5A7CC2001C3C55;
 					};
 					F7C133221F5A7CC3001C3C55 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 54GVH89862;
+						LastSwiftMigration = 0910;
 						ProvisioningStyle = Automatic;
 						TestTargetID = F7C133031F5A7CC2001C3C55;
 					};
@@ -432,7 +435,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = elkollaly.VoiceChanger;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -445,7 +448,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = elkollaly.VoiceChanger;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -459,7 +462,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = elkollaly.VoiceChangerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VoiceChanger.app/VoiceChanger";
 			};
 			name = Debug;
@@ -474,7 +477,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = elkollaly.VoiceChangerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VoiceChanger.app/VoiceChanger";
 			};
 			name = Release;
@@ -488,7 +491,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = elkollaly.VoiceChangerUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 				TEST_TARGET_NAME = VoiceChanger;
 			};
 			name = Debug;
@@ -502,7 +505,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = elkollaly.VoiceChangerUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 				TEST_TARGET_NAME = VoiceChanger;
 			};
 			name = Release;
