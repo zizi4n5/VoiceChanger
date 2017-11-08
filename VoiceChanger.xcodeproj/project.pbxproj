@@ -200,7 +200,7 @@
 				TargetAttributes = {
 					F7C133031F5A7CC2001C3C55 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 54GVH89862;
+						DevelopmentTeam = G828R8B6AG;
 						ProvisioningStyle = Automatic;
 					};
 					F7C133171F5A7CC3001C3C55 = {
@@ -427,7 +427,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 54GVH89862;
+				DEVELOPMENT_TEAM = G828R8B6AG;
 				INFOPLIST_FILE = VoiceChanger/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = elkollaly.VoiceChanger;
@@ -440,7 +440,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 54GVH89862;
+				DEVELOPMENT_TEAM = G828R8B6AG;
 				INFOPLIST_FILE = VoiceChanger/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = elkollaly.VoiceChanger;
